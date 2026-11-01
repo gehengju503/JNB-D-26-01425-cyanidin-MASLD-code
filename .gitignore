@@ -1,0 +1,11 @@
+config.R
+data/*.xlsx
+data/*.xls
+data/*.csv
+data/*.rds
+data/*.RData
+results/
+.Rhistory
+.RData
+.Rproj.user/
+
